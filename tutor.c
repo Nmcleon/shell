@@ -1,6 +1,7 @@
 #include "header.h"
 
-int main(){
-	shell();
-	return 0;
+int main(void)
+{
+    shell();
+    return (0);
 }
